@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="LOGO">
+    <file>Imagenes/png-transparent-logo-drawing-lion-lion-illustration-vertebrate-flower-fictional-character-thumbnail.png</file>
+  </qresource>
+  <qresource prefix="UAT">
+    <file>Imagenes/uat.png</file>
+    <file>Imagenes/fians.png</file>
+  </qresource>
+  <qresource prefix="NUMEROS">
+    <file>Imagenes/uno.png</file>
+    <file>Imagenes/tres.png</file>
+    <file>Imagenes/cinco.png</file>
+    <file>Imagenes/cuatro.png</file>
+    <file>Imagenes/dos.png</file>
+  </qresource>
+</RCC>
